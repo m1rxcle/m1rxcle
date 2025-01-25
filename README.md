@@ -20,7 +20,7 @@ I enjoy exploring new technologies and applying them in practical ways to build 
 Currently, I'm focused on deepening my knowledge in areas such as:
 
 - Advanced JavaScript patterns and design principles.
-- State management libraries like Redux.
+- State management libraries like Redux, Zustand.
 - Web performance optimization and accessibility.
 - Mobile-first development and progressive web apps (PWAs).
 
