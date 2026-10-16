@@ -1,27 +1,34 @@
-# 👋 About Me
+## 👋 Обо мне
 
-I'm a frontend developer who loves creating pet projects and constantly strives to improve my skills in various areas. 
-I enjoy exploring new technologies and applying them in practical ways to build interesting and engaging web applications.
+Привет! Я **Frontend-разработчик**, специализируюсь на **React, TypeScript и JavaScript**. Создаю веб- и мобильные приложения, самостоятельно проектирую интерфейсы, интегрирую API и работаю над архитектурой проектов.
 
-## ⚙️ Skills & Expertise
+### 🚀 Что я разработал
 
-- **HTML/CSS:** Proficient in building responsive layouts using modern CSS techniques such as Flexbox and Grid.
-- **Tailwind CSS**: Confidently use Tailwind's utility classes for rapid interface development without needing to write much custom CSS.
-- **Responsive Design**: Experienced in creating mobile-first designs using Tailwind, including the use of media queries and various grids.
-- **User Interface (UI)**: Capable of developing complex UI components using Tailwind, such as carousels, modals, and forms.
-- **JavaScript:** Strong understanding of core concepts including ES6+ features, asynchronous programming, and DOM manipulation.
-- **Frameworks:** Experience working with popular frameworks like React, Next.js, and Astro.
-- **Version Control:** Familiarity with Git and version control best practices.
-- **APIs:** Integration with RESTful APIs and third-party services.
-- **Testing:** Basic knowledge of unit testing and end-to-end testing tools.
+- ♟️ **ChessAnalyzer** — веб-приложение для анализа шахматных партий с помощью Stockfish. Реализовал анализ качества ходов, рекомендации движка, интерактивную шахматную доску и подгрузку партий при прокрутке.
+- 🎬 **React Native Cinema** — мобильное приложение для просмотра фильмов и покупки билетов. Реализовал OTP-авторизацию, выбор мест, расчёт стоимости и оформление заказов.
+- 🍏 **Apple iPhone View** — интерактивный каталог устройств Apple с 3D-моделями iPhone и MacBook. Использовал Three.js и React Three Fiber для настройки освещения, вращения моделей и переключения размеров устройств.
 
-## 🎯 Learning Goals
+### 🛠️ Технологии и инструменты
 
-Currently, I'm focused on deepening my knowledge in areas such as:
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js
+- **Стилизация и анимации:** Tailwind CSS, SCSS, GSAP, Framer Motion
+- **Состояние и валидация:** Zustand, Zod, React Hook Form
+- **API:** Axios, REST API, GraphQL
+- **Тестирование:** Vitest
+- **Backend и базы данных:** Node.js, NestJS, PostgreSQL, Prisma, Drizzle ORM
+- **Инструменты:** Git, GitHub Actions, ESLint, Prettier, Docker, Vercel
 
-- Advanced JavaScript patterns and design principles.
-- State management libraries like Redux, Zustand.
-- Web performance optimization and accessibility.
-- Mobile-first development and progressive web apps (PWAs).
+### 🎯 Сейчас я
 
-Feel free to check out my repositories and don't hesitate to reach out if you're interested in collaborating! ✌️
+- 📚 Углубляю знания JavaScript, TypeScript и React.
+- 🧩 Развиваю навыки проектирования архитектуры и написания поддерживаемого кода.
+- 🧪 Изучаю подходы к тестированию и повышению качества приложений.
+- ✨ Экспериментирую с новыми технологиями и применяю их в pet-проектах.
+
+### 🤝 Моя цель
+
+Стать сильным frontend-разработчиком, участвовать в создании качественных продуктов, решать интересные технические задачи и постоянно профессионально расти.
+
+📫 **Связаться со мной:** [noonebesideu@gmail.com](mailto:noonebesideu@gmail.com)
+
+💻 **GitHub:** [@m1rxcle](https://github.com/m1rxcle)
